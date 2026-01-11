@@ -1,0 +1,12 @@
+path: D:/dataset
+
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  - healthy
+  - insect
+  - leaf scald
+  - rice blast
+
